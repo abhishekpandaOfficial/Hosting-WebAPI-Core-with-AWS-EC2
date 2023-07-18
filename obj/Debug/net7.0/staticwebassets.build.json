@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vgdfnOOjTbWHDt6mi54HOciUSNqIogQHSxGpj+nRaFU=",
+  "Source": "AWSEc2withwebApiCore",
+  "BasePath": "_content/AWSEc2withwebApiCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
